@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "salon-booking",
-    "slug": "salon-booking",
+    "name": "Trimconnect",
+    "slug": "trimconnect",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.rrstubeguruji301.medicinetracker"
+      "bundleIdentifier": "com.yasserbaghdali.trimconnect"
     },
     "android": {
       "adaptiveIcon": {
@@ -18,7 +18,7 @@
         "backgroundColor": "#ffffff",
         "googleServicesFile": "./google-services.json"
       },
-      "package": "com.tubeguruji.medicinetracker"
+      "package": "com.yasserbaghdali.trimconnect"
     },
     "web": {
       "bundler": "metro",
