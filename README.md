@@ -1,3 +1,18 @@
+
+hi miss if you wish to run this app you will need to install the nessecaary dependencies as i mentioned to you before.
+
+run npm install in your terminal to download them- please ensure that you attempt to download them on the correct dirctory.
+
+if you want to view the app youll need to use a device emulator. you an use android studio for this. just make sure that you use a device that has the playstore and the newest API. you must run npm start to be able to run the code as well
+
+you may be able to run it on your phone by scanning the qr code but there has been an update for the mobile app so it may not work for you. if it dont work just run it on android.
+
+if you have any questions please reach out to me.
+
+thank you. 
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
